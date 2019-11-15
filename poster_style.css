@@ -1,0 +1,255 @@
+
+.letter {
+
+	width:200px; /*resize as you see fit */
+	height:300px; /*resize as you see fit */
+	display:inline-block; /* this makes block level elements act like letters (so they sit next to eachother) */
+	border:1px solid #000; /*feel free to remove or hide this rule */
+	position:relative; /* IMPORTANT: any element with position:absolute inside this container will now be relative to bounds of this element; */
+}
+#main_area{
+	width:250px;
+	height:2400px; 
+	display:inline-block; 
+	position:relative;
+}
+
+#body_text{
+	width:800px;
+	height:2135px; 
+	border:1px solid #000;
+	display:inline-block; 
+	position:relative;
+}
+
+#line_1{
+	font-family: sans-serif;
+	font-size: 100px; 
+	position:absolute;
+}
+#line_2{
+	font-family: sans-serif;
+	font-size: 40px; 
+	position:absolute;
+	top: 870px;
+}
+#line_3{
+	font-family: sans-serif;
+	font-size: 20px; 
+	position:absolute;
+	top: 950px;
+
+}
+#line_4{
+	font-family: sans-serif;
+	font-size: 10px; 
+	position:absolute;
+	top: 1050px;
+	
+}
+#link{
+	width:1060px;
+	height:100px; 
+	display:inline-block;
+	border:1px solid #000; 
+	position:relative;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+
+#A_left_side{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#A_top{
+
+	height: 30px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+
+}
+
+#A_right_side{
+
+	height: 290px;
+	width: 5px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 185px;
+}
+
+#A_middle{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 175px;
+	left: 10px;
+}
+
+#D_left_side{
+
+	height: 290px;
+	width: 5px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#D_bottom{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 295px;
+	left: 10px;
+}
+
+#D_top{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#D_right_side{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 160px;
+}
+#T_middle{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 90px;
+}
+
+#T_top{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+
+#G_left_side{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#G_top{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#G_bottom{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 295px;
+	left: 10px;
+}
+
+#G_right_side_bottom{
+
+	height: 145px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 150px;
+	left: 160px;
+}
+
+
+#I_single{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 90px;
+}
+
+
+#L_middle{
+
+	height: 290px;
+	width: 30px;
+	background: red;
+	position:absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#L_bottom{
+
+	height: 5px;
+	width: 180px;
+	background: red;
+	position:absolute;
+	top: 295px;
+	left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
