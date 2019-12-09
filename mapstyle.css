@@ -1,0 +1,47 @@
+*{
+	font-family: "Helvetica", Serif;
+  background: #B3B3FF;
+}
+
+
+.generator{
+
+  position: fixed;
+  top: 60px;
+  left: 810px;
+  width: 100px;
+  height: 30px;
+  border: 5px solid black;
+  text-align: center;
+  font-size: 10px;
+  z-index: +1;
+
+}
+
+
+.savemap{
+
+  position: fixed;
+  top: 110px;
+  left: 810px;
+  width: 100px;
+  height: 30px;
+  border: 5px solid black;
+  text-align: center;
+  font-size: 10px;
+  z-index: +1;
+
+}
+
+.intro{
+
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 800px;
+  height: 10px;
+  text-align: center;
+  font-size: 15px;
+  z-index: +1;
+
+}
